@@ -587,6 +587,8 @@ const SECTIONS = [
           { id: "fi_schedule", label: "Scheduling which days you'll train" },
           { id: "fi_adjustments", label: "Ability to substitute exercises in the program myself" },
           { id: "fi_bert_sees", label: "Bert can see your session logs to adjust your programming" },
+          { id: "fi_timer", label: "Integrated timer for timed exercises/circuits" },
+
         ],
         scale: ["Not useful", "Nice to have", "Useful", "Essential"],
       },
